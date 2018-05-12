@@ -3,3 +3,4 @@ name = "rustchat"
 version = "0.1.0"
 
 [dependencies]
+tokio = "0.1"
